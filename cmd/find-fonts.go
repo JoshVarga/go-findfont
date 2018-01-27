@@ -9,7 +9,7 @@ import (
 	"flag"
 	"fmt"
 
-	"github.com/flopp/go-findfont"
+	"github.com/JoshVarga/go-findfont"
 )
 
 func main() {
